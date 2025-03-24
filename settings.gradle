@@ -1,0 +1,7 @@
+rootProject.name = "jdk-sandbox"
+
+include "saga"
+include "saga:events"
+include "saga:inventory"
+include "saga:order"
+include "saga:payment"
